@@ -1,0 +1,10 @@
+C:\Users\Computer\Desktop\b3\baitapb3\bin\Debug\baitapb3.exe.config
+C:\Users\Computer\Desktop\b3\baitapb3\bin\Debug\baitapb3.exe
+C:\Users\Computer\Desktop\b3\baitapb3\bin\Debug\baitapb3.pdb
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.Form1.resources
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.Properties.Resources.resources
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.exe
+C:\Users\Computer\Desktop\b3\baitapb3\obj\Debug\baitapb3.pdb
